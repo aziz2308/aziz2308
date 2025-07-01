@@ -50,6 +50,14 @@
 
 ---
 
+### 📌 Latest Project
+
+| Project | Description |
+|--------|-------------|
+| [📸 Lumea](https://github.com/bolakecil/Lumea) | A guided face photo capture app using **Vision**, **ARKit**, and **SwiftUI** to ensure ideal lighting, alignment, and timing. Perfect for consistent ID-style or AI-ready face images. |
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="center">
