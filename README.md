@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Umar Abdul Azis 👋</h2>
+<h2 align="center">Hello there, I'm Umar Abdul Azis 👋</h2>
 <p align="center">
   Web Developer | iOS Developer | Cloud Enthusiast | Lifelong Learner  
 </p>
@@ -8,14 +8,14 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently learning on Apple Developer Academy BSD
-- 🌱 I’m currently learning `SwiftUI`, `VueJS`, and `Software Architecture Design`
+- 🌱 I’m currently learning `SwiftUI`, `VueJS`, and `Software Architecture`
 - 👯 I’m looking to collaborate on meaningful open source or personal side projects
 - 📫 How to reach me: [umar.santo1@gmail.com](mailto:umar.santo1@gmail.com)
 - 💬 Ask me about `React`, `NodeJS`, or `REST APIs`
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Main Tech Knowledge
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -26,14 +26,26 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MVVM-4B4B4B?style=flat-square"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### 📚 Learning Knowledge
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 </p>
 
 ---
