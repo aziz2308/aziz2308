@@ -8,7 +8,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently learning on Apple Developer Academy BSD
-- 🌱 I’m currently learning `SwiftUI,` `VueJS,` and `Software Architecture`
+- 🌱 I’m currently learning `SwiftUI`, `VueJS`, and `Software Architecture`
 - 👯 I’m looking to collaborate on meaningful open source or personal side projects
 - 📫 How to reach me: [umar.santo1@gmail.com](mailto:umar.santo1@gmail.com)
 - 💬 Ask me about `React`, `NodeJS`, or `REST APIs`
